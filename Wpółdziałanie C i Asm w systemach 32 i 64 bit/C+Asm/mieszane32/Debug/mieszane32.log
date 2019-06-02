@@ -1,0 +1,2 @@
+﻿cw2c32.obj : error LNK2019: unresolved external symbol _suma_liczb referenced in function _main
+C:\Users\gosc\Desktop\PG\semestr III\Arch. komputera i syst. operacyjne W-L\lab2\moj prog\mieszane32\Debug\mieszane32.exe : fatal error LNK1120: 1 unresolved externals

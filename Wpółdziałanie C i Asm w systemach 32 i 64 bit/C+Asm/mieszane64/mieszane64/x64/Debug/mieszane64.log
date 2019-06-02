@@ -1,0 +1,4 @@
+﻿  cw64.c
+x64\Debug\cw64.obj : warning LNK4042: object specified more than once; extras ignored
+cw64.obj : error LNK2019: unresolved external symbol suma_liczb64 referenced in function main
+C:\Users\gosc\Desktop\PG\semestr III\Arch. komputera i syst. operacyjne W-L\lab2\moj prog\mieszane64\mieszane64\x64\Debug\mieszane64.exe : fatal error LNK1120: 1 unresolved externals
